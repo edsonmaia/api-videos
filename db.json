@@ -1,4 +1,5 @@
 [
+  videos: [
   {
       "id": "B_nq7VTJZds",
       "title": "As paisagens do mundo",
@@ -34,4 +35,5 @@
       "cover": "https://img.youtube.com/vi/QUc_M1b1uNE/maxresdefault.jpg",
       "category": "Geografia"
   }
+  ]
 ]
