@@ -1,5 +1,5 @@
-[
-  videos: [
+{
+  "videos": [
   {
       "id": "B_nq7VTJZds",
       "title": "As paisagens do mundo",
@@ -36,4 +36,4 @@
       "category": "Geografia"
   }
   ]
-]
+}
